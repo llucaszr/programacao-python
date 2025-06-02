@@ -1,0 +1,78 @@
+Oque,Entrada
+nome,iv
+Comecou,23:34  13/4/2025
+nome,godSE
+Comecou,18:53  14/4/2025
+Caminho de arquivo,""
+Caminho de arquivo,"D:\Usuario Novo -  Nao Apagar\Documents\Workspace\Trabalho Analisador de dados\Analisador de arquivos\archive (1)[1]\Students_Grading_Dataset.csv"
+nome,lala
+Comecou,18:55  14/4/2025
+Caminho de arquivo,"D:\Usuario Novo -  Nao Apagar\Documents\Workspace\Trabalho Analisador de dados\Analisador de arquivos\archive (1)[1]\Students_Grading_Dataset.csv"
+nome,lala
+Comecou,18:56  14/4/2025
+Caminho de arquivo,"D:\Usuario Novo -  Nao Apagar\Documents\Workspace\Trabalho Analisador de dados\Analisador de arquivos\archive (1)[1]\Students_Grading_Dataset.csv"
+nome,lala
+Comecou,18:57  14/4/2025
+Caminho de arquivo,                caminho = caminho.replace("\\","/")
+Caminho de arquivo,"D:\Usuario Novo -  Nao Apagar\Documents\Workspace\Trabalho Analisador de dados\Analisador de arquivos\archive (1)[1]\Students_Grading_Dataset.csv"
+nome,lala
+Comecou,18:58  14/4/2025
+Caminho de arquivo,"D:\Usuario Novo -  Nao Apagar\Documents\Workspace\Trabalho Analisador de dados\Analisador de arquivos\archive (1)[1]\Students_Grading_Dataset.csv"
+Caminho de arquivo,D:\Usuario Novo -  Nao Apagar\Documents\Workspace\Trabalho Analisador de dados\Analisador de arquivos\archive (1)[1]\Students_Grading_Dataset.csv
+Menu,1
+Menu,3
+Menu,2
+Menu,3
+Menu,4
+Coluna consultada,Gender
+Menu,4
+Coluna consultada,Attendance (%)
+Menu,5
+Porcentagem amostral grafico de dispersao,5
+Menu,6
+Porcentagem amostral grafico de barras,5
+Menu,5
+Porcentagem amostral grafico de dispersao,100
+Menu,6
+Porcentagem amostral grafico de barras,100
+Menu,6
+Porcentagem amostral grafico de barras,1
+Menu,5
+Porcentagem amostral grafico de dispersao,1
+Menu,8
+Acabou,19:0  14/4/2025
+
+nome,Lucas
+Comecou,19:9  14/4/2025
+Caminho de arquivo,C:\Users\Usuario\Downloads\TrabalhoML\AnalisadorArquivos-20250414T203028Z-001\AnalisadorArquivos
+Caminho de arquivo,C:\Users\Usuario\Downloads\TrabalhoML\AnalisadorArquivos-20250414T203028Z-001\AnalisadorArquivos
+Caminho de arquivo,C:\Users\Usuario\Downloads\TrabalhoML\AnalisadorArquivos-20250414T203028Z-001\AnalisadorArquivos
+nome,Lucas
+Comecou,19:23  14/4/2025
+Caminho de arquivo,C:\Users\Usuario\Downloads\Trabalho\archive
+Caminho de arquivo,"C:\Users\Usuario\Downloads\Trabalho\archive\Students_Grading_Dataset.csv"
+Caminho de arquivo,"C:\Users\Usuario\Downloads\Trabalho\archive\Students_Grading_Dataset.csv"
+Caminho de arquivo,C:\Users\Usuario\Downloads\Trabalho\AnalisadorArquivos-20250414T215152Z-001-20250414T220703Z-001\AnalisadorArquivos-20250414T215152Z-001\AnalisadorArquivos\Students_Grading_Dataset.csv
+Menu,1
+Menu,3
+Menu,4
+Coluna consultada,5
+Coluna consultada,Gender
+nome,Lucsa
+Comecou,17:13  17/4/2025
+nome,Lucas
+Comecou,19:4  26/4/2025
+Caminho de arquivo,C:\Users\Usuario\Downloads\Trabalho\AnalisadorArquivos-20250414T215152Z-001-20250414T220703Z-001\AnalisadorArquivos-20250414T215152Z-001\AnalisadorArquivos\Students_Grading_Dataset.csv
+Menu,1
+Menu,2
+Menu,3
+Menu,4
+Coluna consultada,5
+Coluna consultada,gender
+Coluna consultada,Gender
+Menu,6
+Porcentagem amostral grafico de barras,1
+Menu,7
+Menu,8
+Acabou,19:6  26/4/2025
+
